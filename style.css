@@ -1,0 +1,16 @@
+
+.header {
+  width: 100%;
+  hight: 20%;
+  position: absolute;
+  top: 0%;
+  color: blue;
+  text-align: center;
+}
+
+.footer {
+  width: 100%;
+  hight: 20%;
+  position: absolute;
+  bottom: 0%;
+}
