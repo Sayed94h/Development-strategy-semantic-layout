@@ -10,7 +10,7 @@
 
 .footer {
   width: 100%;
-  height: 20%;
+  height: 10%;
   position: absolute;
   bottom: 0%;
   color: red;
@@ -20,6 +20,7 @@
 }
 
 .sec-intro {
-  margin-top: 10%;
-  
+  margin-top: 30%;
+  text-align: center;
+  border: 1px dotted green;
 }
