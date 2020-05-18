@@ -1,16 +1,16 @@
 
 .header {
+  border: 1px dotted red;
   width: 100%;
-  hight: 20%;
-  position: absolute;
-  top: 0%;
+  height: 20%;
+  margin-top: 0%;
   color: blue;
   text-align: center;
 }
 
 .footer {
   width: 100%;
-  hight: 20%;
+  height: 20%;
   position: absolute;
   bottom: 0%;
   color: red;
@@ -19,3 +19,7 @@
   background-color: lightblue;
 }
 
+.sec-intro {
+  margin-top: 10%;
+  
+}
