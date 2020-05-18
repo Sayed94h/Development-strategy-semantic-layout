@@ -6,10 +6,6 @@
 
 > The CSS code for styling this webpage, you can find [here](./style.css)
 
-> Click [here](https://sayed94h.github.io/Development-strategy-semantic-layout/) to look at this webpage.
-
-## This webpage is validated!!! :smile:
-
 
 
 
