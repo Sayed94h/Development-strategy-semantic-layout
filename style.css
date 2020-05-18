@@ -19,7 +19,7 @@
 }
 
 .sec-intro {
-  margin-top: 30%;
+  margin-top: 10%;
   text-align: center;
   border: 1px dotted green;
 }
@@ -27,5 +27,5 @@
 .main-text {
   border: 1px dotted green;
   margin: 1%;
-
+  padding: 1%;
 }
