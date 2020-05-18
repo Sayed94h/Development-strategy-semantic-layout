@@ -1,6 +1,6 @@
 
 .header {
-  background-color: gray;
+  background-color: rgb(100, 100, 100);
   width: 100%;
   hight: 20%;
   position: absolute;
@@ -16,5 +16,6 @@
   bottom: 0%;
   color: red;
   text-align: center;
+  background-color: lightblue;
 }
 
